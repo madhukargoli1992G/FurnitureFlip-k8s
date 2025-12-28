@@ -31,7 +31,7 @@ It combines conversational input, dynamic form generation, online price comparis
 ---
 
 ## 🧱 Architecture
-
+```
 ┌────────────┐ HTTP ┌──────────────┐
 │ Streamlit │ ─────────────▶ │ FastAPI API │
 │ Frontend │ │ Backend │
@@ -43,7 +43,7 @@ It combines conversational input, dynamic form generation, online price comparis
 │
 ▼
 Kubernetes (Docker Desktop)
-
+```
 
 ---
 
@@ -68,7 +68,7 @@ Kubernetes (Docker Desktop)
 ---
 
 ## 📁 Project Structure
-
+```
 FurnitureFlip-k8s/
 │
 ├── backend/
@@ -90,7 +90,7 @@ FurnitureFlip-k8s/
 │
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
